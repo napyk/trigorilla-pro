@@ -4,7 +4,17 @@
 - Soldered A4988 steppe drivers
 - WIFI Slot layout matches ESP-01 layout
 - Manufactured by [cbb-3d](http://www.cbd-3d.com/en/prod/fdm.shtml)?
+- PL2303 USB to Serial (max baudrate seems to be 230400)
 - ![mainboard](trigorilla_pro.png)
+
+# Pinout
+- Beaper: PB0
+
+# Flashing bootloader
+- Install [Arduino STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32)
+- Remove JP1 jumper
+
+
 
 # Stepper driver replacement
 - [Trinamic Replacement Notes](https://www.trinamic.com/fileadmin/assets/Support/Appnotes/AN045-How_to_replace_Allegro_A4988_with_TMC2208_01.pdf) for replacing A4988 with TMC2208
