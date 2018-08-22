@@ -8,7 +8,9 @@
 - ![mainboard](trigorilla_pro.png)
 
 # Pinout
+- ![Datasheet](https://www.st.com/resource/en/datasheet/cd00191185.pdf) (Page 27)
 - Beaper: PB0
+- LED: PD3
 
 # Flashing bootloader
 - Install [Arduino STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32)
