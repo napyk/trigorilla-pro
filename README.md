@@ -8,7 +8,7 @@
 - ![mainboard](trigorilla_pro.png)
 
 # Pinout
-- ![Datasheet](https://www.st.com/resource/en/datasheet/cd00191185.pdf) (Page 27)
+- [Datasheet](https://www.st.com/resource/en/datasheet/cd00191185.pdf) (Page 27)
 - Beaper: PB0
 - LED: PD3
 
