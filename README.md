@@ -12,6 +12,7 @@
 - PB0: Beeper
 - PD3: LED
 - PG4: Capacitor? (Power LED turns off slowly if pin is set HIGH)
+- PA9: Serial USB Communication?
 
 # Flashing bootloader
 - Install [Arduino STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32)
