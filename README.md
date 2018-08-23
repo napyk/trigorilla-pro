@@ -3,7 +3,7 @@
 - 32bit Cortex-M3 MCU (STM32F103ZET6)
 - Soldered A4988 stepper drivers
 - WIFI slot layout matches ESP-01 layout
-- Manufactured by [cbb-3d](http://www.cbd-3d.com/en/prod/fdm.shtml)?
+- Manufactured by [cbd-3d](http://www.cbd-3d.com/en/prod/fdm.shtml)?
 - [PL2303](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41) USB to Serial (max baudrate seems to be 230400)
 - ![mainboard](trigorilla_pro.png)
 
