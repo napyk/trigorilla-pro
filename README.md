@@ -16,7 +16,7 @@
 
 # Flashing bootloader
 - Install [Arduino STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32)
-- Remove JP1 jumper
+- Remove JP1 jumper and set SW1 jumper to USB mode
 - Use stm32flash tool located in `Arduino_STM32/tools/..../stm32flash`
 - `./stm32flash -b 230400 -w generic_boot20_pd3.bin -v -g 0x0 <port>`
 
